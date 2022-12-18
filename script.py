@@ -3,7 +3,7 @@ from git import Repo
 import os
 
 username = os.environ.get("BOT_USERNAME", "cdn-commit-bot")
-token = os.environ.get("BOT_TOKEN", "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")
+token = os.environ.get("BOT_TOKEN", "")
 
 
 def commit_code(image):
