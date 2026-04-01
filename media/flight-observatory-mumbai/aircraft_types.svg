@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="630" viewBox="0 0 1000 630">
+<rect width="100%" height="100%" fill="#0b1020"/>
+<text x="30" y="36" font-family="Inter, Arial, sans-serif" font-size="24" fill="#f8fafc" font-weight="700">Top aircraft types by inferred flight runs</text>
+<text x="30" y="56" font-family="Inter, Arial, sans-serif" font-size="13" fill="#94a3b8">Mumbai airspace sample, 2018-2026</text>
+<text x="158" y="95.92" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="16" fill="#e2e8f0">A20N</text>
+<rect x="170" y="70" width="750.0" height="36" rx="6" fill="#38bdf8"/>
+<text x="930.0" y="95.92" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">49,269</text>
+<text x="158" y="145.92" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="16" fill="#e2e8f0">A21N</text>
+<rect x="170" y="120" width="422.2584180722158" height="36" rx="6" fill="#38bdf8"/>
+<text x="602.2584180722158" y="145.92" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">27,739</text>
+<text x="158" y="195.92" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="16" fill="#e2e8f0">B38M</text>
+<rect x="170" y="170" width="199.99391097850577" height="36" rx="6" fill="#38bdf8"/>
+<text x="379.99391097850577" y="195.92" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">13,138</text>
+<text x="158" y="245.92" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="16" fill="#e2e8f0">A320</text>
+<rect x="170" y="220" width="191.60628387018207" height="36" rx="6" fill="#38bdf8"/>
+<text x="371.6062838701821" y="245.92" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">12,587</text>
+<text x="158" y="295.92" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="16" fill="#e2e8f0">B77W</text>
+<rect x="170" y="270" width="114.82372282774159" height="36" rx="6" fill="#38bdf8"/>
+<text x="294.82372282774156" y="295.92" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">7,543</text>
+<text x="158" y="345.92" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="16" fill="#e2e8f0">B738</text>
+<rect x="170" y="320" width="85.90087073007368" height="36" rx="6" fill="#38bdf8"/>
+<text x="265.9008707300737" y="345.92" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">5,643</text>
+<text x="158" y="395.92" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="16" fill="#e2e8f0">B789</text>
+<rect x="170" y="370" width="48.13371491201364" height="36" rx="6" fill="#38bdf8"/>
+<text x="228.13371491201363" y="395.92" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">3,162</text>
+<text x="158" y="445.92" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="16" fill="#e2e8f0">A321</text>
+<rect x="170" y="420" width="42.02947086403215" height="36" rx="6" fill="#38bdf8"/>
+<text x="222.02947086403213" y="445.92" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">2,761</text>
+<text x="158" y="495.92" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="16" fill="#e2e8f0">B788</text>
+<rect x="170" y="470" width="37.78237837179565" height="36" rx="6" fill="#38bdf8"/>
+<text x="217.78237837179566" y="495.92" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">2,482</text>
+<text x="158" y="545.92" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="16" fill="#e2e8f0">B77L</text>
+<rect x="170" y="520" width="36.96036047007246" height="36" rx="6" fill="#38bdf8"/>
+<text x="216.96036047007246" y="545.92" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">2,428</text>
+</svg>

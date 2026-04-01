@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="558" viewBox="0 0 1100 558">
+<rect width="100%" height="100%" fill="#0b1020"/>
+<text x="30" y="34" font-family="Inter, Arial, sans-serif" font-size="24" fill="#f8fafc" font-weight="700">Takeoff heading profile</text>
+<text x="30" y="56" font-family="Inter, Arial, sans-serif" font-size="13" fill="#94a3b8">Heading sectors at takeoff points</text>
+<text x="208" y="93.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">270°</text>
+<rect x="220" y="76" width="790.0000000000001" height="24" rx="5" fill="#a78bfa"/>
+<text x="1020.0000000000001" y="93.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">10,848</text>
+<text x="208" y="129.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">300°</text>
+<rect x="220" y="112" width="38.74262536873157" height="24" rx="5" fill="#a78bfa"/>
+<text x="268.7426253687316" y="129.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">532</text>
+<text x="208" y="165.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">090°</text>
+<rect x="220" y="148" width="24.104904129793514" height="24" rx="5" fill="#a78bfa"/>
+<text x="254.1049041297935" y="165.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">331</text>
+<text x="208" y="201.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">000°</text>
+<rect x="220" y="184" width="20.245206489675518" height="24" rx="5" fill="#a78bfa"/>
+<text x="250.24520648967552" y="201.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">278</text>
+<text x="208" y="237.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">180°</text>
+<rect x="220" y="220" width="19.15283923303835" height="24" rx="5" fill="#a78bfa"/>
+<text x="249.15283923303835" y="237.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">263</text>
+<text x="208" y="273.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">120°</text>
+<rect x="220" y="256" width="17.696349557522126" height="24" rx="5" fill="#a78bfa"/>
+<text x="247.69634955752213" y="273.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">243</text>
+<text x="208" y="309.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">240°</text>
+<rect x="220" y="292" width="16.458333333333336" height="24" rx="5" fill="#a78bfa"/>
+<text x="246.45833333333334" y="309.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">226</text>
+<text x="208" y="345.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">330°</text>
+<rect x="220" y="328" width="15.802912979351033" height="24" rx="5" fill="#a78bfa"/>
+<text x="245.80291297935102" y="345.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">217</text>
+<text x="208" y="381.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">210°</text>
+<rect x="220" y="364" width="12.380162241887907" height="24" rx="5" fill="#a78bfa"/>
+<text x="242.38016224188792" y="381.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">170</text>
+<text x="208" y="417.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">150°</text>
+<rect x="220" y="400" width="12.234513274336285" height="24" rx="5" fill="#a78bfa"/>
+<text x="242.23451327433628" y="417.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">168</text>
+<text x="208" y="453.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">030°</text>
+<rect x="220" y="436" width="5.097713864306785" height="24" rx="5" fill="#a78bfa"/>
+<text x="235.0977138643068" y="453.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">70</text>
+<text x="208" y="489.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">060°</text>
+<rect x="220" y="472" width="3.5683997050147496" height="24" rx="5" fill="#a78bfa"/>
+<text x="233.56839970501474" y="489.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">49</text>
+</svg>

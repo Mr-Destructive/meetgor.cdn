@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="990" viewBox="0 0 1100 990">
+<rect width="100%" height="100%" fill="#0b1020"/>
+<text x="30" y="34" font-family="Inter, Arial, sans-serif" font-size="24" fill="#f8fafc" font-weight="700">Average airport movements per sampled day, by hour</text>
+<text x="30" y="56" font-family="Inter, Arial, sans-serif" font-size="13" fill="#94a3b8">Mumbai IST hour buckets, averaged across sampled days</text>
+<text x="208" y="93.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">17:00</text>
+<rect x="220" y="76" width="790.0" height="24" rx="5" fill="#38bdf8"/>
+<text x="1020.0" y="93.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">31</text>
+<text x="208" y="129.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">18:00</text>
+<rect x="220" y="112" width="787.0549786716916" height="24" rx="5" fill="#38bdf8"/>
+<text x="1017.0549786716916" y="129.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">31</text>
+<text x="208" y="165.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">07:00</text>
+<rect x="220" y="148" width="777.3609866385789" height="24" rx="5" fill="#38bdf8"/>
+<text x="1007.3609866385789" y="165.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">30</text>
+<text x="208" y="201.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">20:00</text>
+<rect x="220" y="184" width="768.7713453924914" height="24" rx="5" fill="#38bdf8"/>
+<text x="998.7713453924914" y="201.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">30</text>
+<text x="208" y="237.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">21:00</text>
+<rect x="220" y="220" width="768.6486340230725" height="24" rx="5" fill="#38bdf8"/>
+<text x="998.6486340230725" y="237.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">30</text>
+<text x="208" y="273.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">19:00</text>
+<rect x="220" y="256" width="764.2311277994822" height="24" rx="5" fill="#38bdf8"/>
+<text x="994.2311277994822" y="273.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">30</text>
+<text x="208" y="309.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">22:00</text>
+<rect x="220" y="292" width="759.8135958070196" height="24" rx="5" fill="#38bdf8"/>
+<text x="989.8135958070196" y="309.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">29</text>
+<text x="208" y="345.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">16:00</text>
+<rect x="220" y="328" width="758.3410851428655" height="24" rx="5" fill="#38bdf8"/>
+<text x="988.3410851428655" y="345.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">29</text>
+<text x="208" y="381.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">11:00</text>
+<rect x="220" y="364" width="746.5814860830312" height="24" rx="5" fill="#38bdf8"/>
+<text x="976.5814860830312" y="381.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">29</text>
+<text x="208" y="417.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">10:00</text>
+<rect x="220" y="400" width="734.0447236065017" height="24" rx="5" fill="#38bdf8"/>
+<text x="964.0447236065017" y="417.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">28</text>
+<text x="208" y="453.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">08:00</text>
+<rect x="220" y="436" width="727.2548319326429" height="24" rx="5" fill="#38bdf8"/>
+<text x="957.2548319326429" y="453.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">28</text>
+<text x="208" y="489.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">09:00</text>
+<rect x="220" y="472" width="726.539024200657" height="24" rx="5" fill="#38bdf8"/>
+<text x="956.539024200657" y="489.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">28</text>
+<text x="208" y="525.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">12:00</text>
+<rect x="220" y="508" width="722.2646640621405" height="24" rx="5" fill="#38bdf8"/>
+<text x="952.2646640621405" y="525.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">28</text>
+<text x="208" y="561.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">06:00</text>
+<rect x="220" y="544" width="715.08620356437" height="24" rx="5" fill="#38bdf8"/>
+<text x="945.08620356437" y="561.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">28</text>
+<text x="208" y="597.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">23:00</text>
+<rect x="220" y="580" width="702.3858345182393" height="24" rx="5" fill="#38bdf8"/>
+<text x="932.3858345182393" y="597.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">27</text>
+<text x="208" y="633.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">14:00</text>
+<rect x="220" y="616" width="686.1882429814154" height="24" rx="5" fill="#38bdf8"/>
+<text x="916.1882429814154" y="633.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">27</text>
+<text x="208" y="669.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">15:00</text>
+<rect x="220" y="652" width="662.8326514313483" height="24" rx="5" fill="#38bdf8"/>
+<text x="892.8326514313483" y="669.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">26</text>
+<text x="208" y="705.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">13:00</text>
+<rect x="220" y="688" width="660.4193707808977" height="24" rx="5" fill="#38bdf8"/>
+<text x="890.4193707808977" y="705.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">26</text>
+<text x="208" y="741.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">00:00</text>
+<rect x="220" y="724" width="616.2441797006329" height="24" rx="5" fill="#38bdf8"/>
+<text x="846.2441797006329" y="741.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">24</text>
+<text x="208" y="777.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">04:00</text>
+<rect x="220" y="760" width="539.58456794229" height="24" rx="5" fill="#38bdf8"/>
+<text x="769.58456794229" y="777.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">21</text>
+<text x="208" y="813.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">01:00</text>
+<rect x="220" y="796" width="483.5453107942903" height="24" rx="5" fill="#38bdf8"/>
+<text x="713.5453107942903" y="813.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">19</text>
+<text x="208" y="849.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">02:00</text>
+<rect x="220" y="832" width="466.2555313781196" height="24" rx="5" fill="#38bdf8"/>
+<text x="696.2555313781196" y="849.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">18</text>
+<text x="208" y="885.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">05:00</text>
+<rect x="220" y="868" width="271.13334761820437" height="24" rx="5" fill="#38bdf8"/>
+<text x="501.13334761820437" y="885.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">11</text>
+<text x="208" y="921.28" text-anchor="end" font-family="Inter, Arial, sans-serif" font-size="15" fill="#e2e8f0">03:00</text>
+<rect x="220" y="904" width="198.09820504148087" height="24" rx="5" fill="#38bdf8"/>
+<text x="428.09820504148087" y="921.28" font-family="Inter, Arial, sans-serif" font-size="14" fill="#e2e8f0">8</text>
+</svg>

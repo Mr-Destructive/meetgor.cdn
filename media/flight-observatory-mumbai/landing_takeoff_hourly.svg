@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+<rect width="100%" height="100%" fill="#0b1020"/>
+<text x="30" y="34" font-family="Inter, Arial, sans-serif" font-size="24" fill="#f8fafc" font-weight="700">Landings and takeoffs by hour</text>
+<text x="30" y="56" font-family="Inter, Arial, sans-serif" font-size="13" fill="#94a3b8">Airport-proximate events grouped by IST hour</text>
+<line x1="80" y1="90" x2="80" y2="570" stroke="#334155" stroke-width="1"/>
+<line x1="80" y1="570" x2="1170" y2="570" stroke="#334155" stroke-width="1"/>
+<text x="95.89583333333333" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">00:00</text>
+<rect x="85.0" y="137.14069591527988" width="13.895833333333332" height="432.8593040847201" fill="#38bdf8"/>
+<rect x="100.89583333333333" y="420.3782148260212" width="13.895833333333332" height="149.62178517397882" fill="#f59e0b"/>
+<text x="141.3125" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">01:00</text>
+<rect x="130.41666666666666" y="255.446293494705" width="13.895833333333332" height="314.553706505295" fill="#38bdf8"/>
+<rect x="146.3125" y="440.5597579425114" width="13.895833333333332" height="129.44024205748863" fill="#f59e0b"/>
+<text x="186.72916666666666" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">02:00</text>
+<rect x="175.83333333333331" y="329.21331316187593" width="13.895833333333332" height="240.78668683812407" fill="#38bdf8"/>
+<rect x="191.72916666666666" y="407.85173978819967" width="13.895833333333332" height="162.1482602118003" fill="#f59e0b"/>
+<text x="232.14583333333334" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">03:00</text>
+<rect x="221.25" y="513.6308623298033" width="13.895833333333332" height="56.36913767019667" fill="#38bdf8"/>
+<rect x="237.14583333333334" y="455.17397881996976" width="13.895833333333332" height="114.82602118003025" fill="#f59e0b"/>
+<text x="277.56249999999994" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">04:00</text>
+<rect x="266.66666666666663" y="252.6626323751891" width="13.895833333333332" height="317.3373676248109" fill="#38bdf8"/>
+<rect x="282.56249999999994" y="406.4599092284418" width="13.895833333333332" height="163.54009077155823" fill="#f59e0b"/>
+<text x="322.97916666666663" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">05:00</text>
+<rect x="312.0833333333333" y="345.2193645990923" width="13.895833333333332" height="224.78063540090773" fill="#38bdf8"/>
+<rect x="327.97916666666663" y="289.5461422087746" width="13.895833333333332" height="280.4538577912254" fill="#f59e0b"/>
+<text x="368.3958333333333" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">06:00</text>
+<rect x="357.5" y="322.2541603630862" width="13.895833333333332" height="247.7458396369138" fill="#38bdf8"/>
+<rect x="373.3958333333333" y="122.52647503782151" width="13.895833333333332" height="447.4735249621785" fill="#f59e0b"/>
+<text x="413.81249999999994" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">07:00</text>
+<rect x="402.91666666666663" y="191.42208774583963" width="13.895833333333332" height="378.57791225416037" fill="#38bdf8"/>
+<rect x="418.81249999999994" y="192.81391830559755" width="13.895833333333332" height="377.18608169440245" fill="#f59e0b"/>
+<text x="459.22916666666663" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">08:00</text>
+<rect x="448.3333333333333" y="153.14674735249622" width="13.895833333333332" height="416.8532526475038" fill="#38bdf8"/>
+<rect x="464.22916666666663" y="279.80332829046904" width="13.895833333333332" height="290.19667170953096" fill="#f59e0b"/>
+<text x="504.6458333333333" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">09:00</text>
+<rect x="493.75" y="151.7549167927383" width="13.895833333333332" height="418.2450832072617" fill="#38bdf8"/>
+<rect x="509.6458333333333" y="281.8910741301059" width="13.895833333333332" height="288.1089258698941" fill="#f59e0b"/>
+<text x="550.0625" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">10:00</text>
+<rect x="539.1666666666666" y="172.6323751891074" width="13.895833333333332" height="397.3676248108926" fill="#38bdf8"/>
+<rect x="555.0625" y="273.54009077155825" width="13.895833333333332" height="296.45990922844175" fill="#f59e0b"/>
+<text x="595.4791666666666" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">11:00</text>
+<rect x="584.5833333333333" y="160.10590015128594" width="13.895833333333332" height="409.89409984871406" fill="#38bdf8"/>
+<rect x="600.4791666666666" y="254.05446293494703" width="13.895833333333332" height="315.945537065053" fill="#f59e0b"/>
+<text x="640.8958333333334" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">12:00</text>
+<rect x="630.0" y="199.07715582450834" width="13.895833333333332" height="370.92284417549166" fill="#38bdf8"/>
+<rect x="645.8958333333334" y="258.2299546142209" width="13.895833333333332" height="311.7700453857791" fill="#f59e0b"/>
+<text x="686.3125" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">13:00</text>
+<rect x="675.4166666666666" y="219.9546142208775" width="13.895833333333332" height="350.0453857791225" fill="#38bdf8"/>
+<rect x="691.3125" y="295.8093797276853" width="13.895833333333332" height="274.1906202723147" fill="#f59e0b"/>
+<text x="731.7291666666666" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">14:00</text>
+<rect x="720.8333333333333" y="169.84871406959155" width="13.895833333333332" height="400.15128593040845" fill="#38bdf8"/>
+<rect x="736.7291666666666" y="321.5582450832073" width="13.895833333333332" height="248.44175491679272" fill="#f59e0b"/>
+<text x="777.1458333333334" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">15:00</text>
+<rect x="766.25" y="224.13010590015125" width="13.895833333333332" height="345.86989409984875" fill="#38bdf8"/>
+<rect x="782.1458333333334" y="271.45234493192135" width="13.895833333333332" height="298.54765506807865" fill="#f59e0b"/>
+<text x="822.5625" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">16:00</text>
+<rect x="811.6666666666666" y="157.32223903177004" width="13.895833333333332" height="412.67776096822996" fill="#38bdf8"/>
+<rect x="827.5625" y="265.88502269288955" width="13.895833333333332" height="304.11497730711045" fill="#f59e0b"/>
+<text x="867.9791666666666" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">17:00</text>
+<rect x="857.0833333333333" y="139.92435703479578" width="13.895833333333332" height="430.0756429652042" fill="#38bdf8"/>
+<rect x="872.9791666666666" y="253.3585476550681" width="13.895833333333332" height="316.6414523449319" fill="#f59e0b"/>
+<text x="913.3958333333334" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">18:00</text>
+<rect x="902.5" y="111.39183055975798" width="13.895833333333332" height="458.608169440242" fill="#38bdf8"/>
+<rect x="918.3958333333334" y="284.6747352496218" width="13.895833333333332" height="285.3252647503782" fill="#f59e0b"/>
+<text x="958.8125" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">19:00</text>
+<rect x="947.9166666666666" y="153.14674735249622" width="13.895833333333332" height="416.8532526475038" fill="#38bdf8"/>
+<rect x="963.8125" y="264.4931921331316" width="13.895833333333332" height="305.5068078668684" fill="#f59e0b"/>
+<text x="1004.2291666666666" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">20:00</text>
+<rect x="993.3333333333333" y="122.52647503782151" width="13.895833333333332" height="447.4735249621785" fill="#38bdf8"/>
+<rect x="1009.2291666666666" y="270.06051437216337" width="13.895833333333332" height="299.93948562783663" fill="#f59e0b"/>
+<text x="1049.6458333333333" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">21:00</text>
+<rect x="1038.75" y="121.83055975794252" width="13.895833333333332" height="448.1694402420575" fill="#38bdf8"/>
+<rect x="1054.6458333333333" y="291.6338880484115" width="13.895833333333332" height="278.3661119515885" fill="#f59e0b"/>
+<text x="1095.0624999999998" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">22:00</text>
+<rect x="1084.1666666666665" y="112.08774583963691" width="13.895833333333332" height="457.9122541603631" fill="#38bdf8"/>
+<rect x="1100.0624999999998" y="309.72768532526476" width="13.895833333333332" height="260.27231467473524" fill="#f59e0b"/>
+<text x="1140.4791666666665" y="592" text-anchor="middle" font-family="Inter, Arial, sans-serif" font-size="11" fill="#cbd5e1">23:00</text>
+<rect x="1129.5833333333333" y="110.0" width="13.895833333333332" height="460.0" fill="#38bdf8"/>
+<rect x="1145.4791666666665" y="366.0968229954614" width="13.895833333333332" height="203.90317700453858" fill="#f59e0b"/>
+<rect x="30" y="50" width="14" height="14" fill="#38bdf8"/><text x="50" y="62" font-family="Inter, Arial, sans-serif" font-size="13" fill="#e2e8f0">Landings</text>
+<rect x="125" y="50" width="14" height="14" fill="#f59e0b"/><text x="145" y="62" font-family="Inter, Arial, sans-serif" font-size="13" fill="#e2e8f0">Takeoffs</text>
+</svg>
